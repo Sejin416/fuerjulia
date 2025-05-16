@@ -1,0 +1,8 @@
+<?php
+if ($_POST['antwort'] == 'Rote Pandas') {
+    header('Location: frage1.html');
+    exit;
+} else {
+    echo "Falsche Antwort.";
+}
+?>

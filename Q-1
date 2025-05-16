@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Frage 1</title>
+</head>
+<body>
+    <h1>Frage 1: Wa heißt mein Lieblingstier?</h1>
+    <form action="antwort1.php" method="post">
+        <input type="text" name="antwort" required>
+        <input type="submit" value="Antwort absenden">
+    </form>
+</body>
+</html>

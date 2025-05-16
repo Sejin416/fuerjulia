@@ -1,0 +1,8 @@
+<?php
+if ($_POST['antwort'] == 'Lavendel') {
+    header('Location: frage3.html');
+    exit;
+} else {
+    echo "Falsche Antwort. Versuche es noch einmal.";
+}
+?>

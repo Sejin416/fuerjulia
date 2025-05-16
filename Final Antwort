@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Ergebnis</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="ergebnis-container">
+        <h1>Herzlichen Glückwunsch!</h1>
+        <p>Du hast alle Fragen richtig beantwortet.</p>
+        <p>Mein Chrush bist in wirklichkeit du...</p>
+    </div>
+</body>
+</html>
